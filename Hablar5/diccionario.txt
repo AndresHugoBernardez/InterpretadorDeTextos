@@ -1,0 +1,235 @@
+<ente>
+	<nombre>yo</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>pronombre</clase>
+		<persona>primera singular</persona>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>el</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>artículo</clase>
+		<gennum>masculino singular</gennum>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>la</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>artículo</clase>
+		<significados>1</significados>
+		<gennum>femenino singular</gennum>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>perro</nombre>
+	<clases>1</clases>
+	<clase1>	
+		<clase>sustantivo</clase>
+		<significados>1</significados>
+		<gennum>masculino singular</gennum>
+		<1>
+			<significado>animal de cuatro patas</significado>
+			<contexto>zoo</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>en</nombre>
+
+	<clases>1</clases>
+	<clase1>
+		<clase>preposición</clase>
+
+		<significados>1</significados>
+		<1> 
+		<significado>sobre </significado>
+		<contexto>posición</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>de</nombre>
+
+	<clases>1</clases>
+	<clase1>
+		<clase>preposición</clase>
+
+		<significados>1</significados>
+		<1> 
+		<significado>el que sigue </significado>
+		<contexto>posición</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>gato</nombre>
+	<clases>1</clases>
+	<clase1>
+		<clase>sustantivo</clase>
+		<gennum>masculino singular</gennum>
+		<significados>1</significados>
+		<1>
+			<significado>felino doméstico</significado>
+			<contexto>mascota</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>baila</nombre>
+	<clases>1</clases>
+	<clase1>
+		<clase>verbo</clase>
+		<significados>1</significados>
+		<persona>tercera singular</persona>
+		<conjugación>indicativo presente</conjugación>
+		<1>
+			<significado>moverse al compás</significado>
+			<contexto>boliche teatro</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>corre</nombre>
+	<clases>1</clases>
+	<clase1>
+	<clase>verbo</clase>
+		<infinitivo>correr</infinitivo>
+		<persona>tercera singular</persona>
+		<conjugación>indicativo presente</conjugación>
+		<significados>1</significados>
+		<1>
+			<significado>trotar de un lado a otro</significado>
+			<contexto>ejercicio movimiento</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>corro</nombre>
+	<clases>1</clases>
+	<clase1>
+	<clase>verbo</clase>
+		<infinitivo>correr</infinitivo>
+		<persona>primera singular</persona>
+		<conjugación>indicativo presente</conjugación>
+		<significados>1</significados>
+		<1>
+			<significado>trotar de un lado a otro</significado>
+			<contexto>ejercicio movimiento</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>correr</nombre>
+	<clases>1</clases>
+	<clase1>
+	<clase>verbo</clase>
+	<infinitivo>él mismo</infinitivo>
+	<ind. pres.>corro corres corre corremos corréis corren</ind. pres.> 
+		<significados>1</significados>
+		<1>
+			<significado>trotar de un lado a otro</significado>
+			<contexto>ejercicio movimiento</contexto>
+		</1>
+	</clase1>
+	
+</ente>
+<ente>
+	<nombre>jardín</nombre>
+	<clases>1</clases>
+	<clase1>
+		<clase>sustantivo</clase>
+		<significados>1</significados>
+		<gennum>masculino singular</gennum>
+		<1>
+			<significado>lugar con plantas</significado>
+			<code>3d:plantas+árboles+macetas+pasto+flores</code>
+			<contexto>lugar casa </contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>lindo</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>adjetivo</clase>
+		<gennum>masculino singular</gennum>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+<ente>
+	<nombre>rojo</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>adjetivo</clase>
+		<gennum>masculino singular</gennum>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+
+<ente>
+	<nombre>le</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>pronombre reflexivo</clase>
+		<persona>tercera singular</persona>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+
+<ente>
+	<nombre>mi</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>pronombre reflexivo</clase>
+		<gennum>neutral singular</gennum>
+		<1> 
+		<significado>único </significado>
+		<contexto>previo</contexto>
+		</1>
+	</clase1>
+</ente>
+
+<ente>
+	<nombre>mal</nombre>
+	<clases>1</clases>
+	<clase1>
+		<significados>1</significados>
+		<clase>adverbio</clase>
+		<tipo>modo</tipo>
+		<1>
+			<significado>puro</significado>
+			<contexto>modo</contexto>
+		</1>
+	</clase1>
+</ente>

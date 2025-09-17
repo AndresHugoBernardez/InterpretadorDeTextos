@@ -1,0 +1,42 @@
+Busqueda dicotomica hasta tener -2 0 -4
+Si es 0 posicionini==
+Sino 
+Buscar 5 arriba mientras sea -2 
+Si es 0 posicionini==
+Busqueda descendente hasta que sea 0 o -4
+posicionini==
+
+De posicionini Buscar 5 abajo mientras sea   -4
+Busqueda ascendente hasta posicion -4 o 0
+
+
+
+palabrabuscada palabraenlista
+
+Estados
+Estadoses
+Estados_Unidos
+
+
+
+
+
+hay 3 posibilidades
+
+que la busqueda me de 0 que me de 4 o que me de 2
+
+
+
+
+si da 2. la busqueda esta arriba
+
+si da 0 la busqueda esta abajo
+
+si da 4 la busqueda esta en el medio
+
+
+
+
+
+
+
