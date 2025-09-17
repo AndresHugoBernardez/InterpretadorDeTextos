@@ -1,0 +1,64 @@
+Pedro y Antonio dibujan; Juan, Pedro, Antonio y Luis pintan.
+
+S_S
+Juan pinta y dibuja
+Juan escribe, pinta y dibuja.
+Juan lo afirmó, lo afirma y lo afirmará cuantas veces sea necesario.
+
+Pedro es avaro, cruel e inhumano. Era de complexión sana, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza
+
+
+Tienes que abrirlo e, inmediatamente, comerlo para que no se estropee.
+
+
+Muchos teólogos hay que no son buenos para el púlpito y son bonísimos para conocer las faltas o sobras de los que predican
+
+En el cajón pon los papeles; sobre el escritorio, el monitor; en la caja, los discos, y en otro mueble, la impresora.
+
+
+
+verbo=   lo pateo rapidamente en el bosque
+         pron rel+ verbo+ prep+ S_S derecha
+
+Articulo =  el barco en la colina
+             S_A  PREP 
+
+Adjetivo =  Rojo, amarillo y azul cobre
+             S_AD S_S PREP NO S_A
+
+   El auto de rojo, blanco y amarillo.
+   EL niño compró miel de abeja, chocolate y almendras
+             s_s+prep, s_s y s_s
+             
+    El niño compro un auto de color rojo,blanco y negro
+    El niño compro un auto de color rojo de abeja, blanco y negro.
+	S_S S_S +PREP, S_A y S_A
+    El niño compro un auto de plastilina de color rojo de abeja, blanco y negro.
+
+	
+
+
+Sustantivo=  barco, miel blanca y arena
+             S_S S_AD PREP NO S_A
+
+    La casa esta hecha de caña de azucar, madera y paja.
+    La casa está hecha de ladrillos de arcilla, tierra y barro.
+
+
+Preposicion= en la colina
+
+             PREP
+Adverbio=  rapidamente
+
+            Adverbio
+
+
+caso de coma, ignorar hasta siguiente coma 
+
+
+
+
+El auto está en la plaza roja y blanca marfil.
+El auto está en la plaza y el perro está  en el bosque.
+
+El auto corre de lado y de costado en el bosque.

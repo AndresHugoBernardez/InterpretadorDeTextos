@@ -1,0 +1,60 @@
+El barco de cartón, arena y madera.
+Si S_S  (ingresar a PREP y sacar S_S)
+El barco de cartón, en la arena y en el mar.
+Si PREP
+El barco rojo, amarillo y azul cobre.
+Si S_S y ADJ
+El barco rojo y amarillo y el azul cobre.
+Si ADJ, (romper S_A) luego seguir. Si S_A. Condicion si el sustantivo esta antes que el adjetivo tomar solo adjetivo.
+El barco rojo y amarillo, y el azul cobre.
+Si ADJ, (romper S_A) luego seguir. Si S_A. Condicion si el sustantivo esta antes que el adjetivo tomar solo adjetivo.
+Tomar a ,y como y cuando son S_A
+El barco rápidamente y fuertemente golpeó.
+***Si adverbio. ANalizar si está verbo en ambos lados, ****sino tomar lo mas cercano.No tomar S_A.
+El barco rojo rapidamente corrió y se rompió facilmente en la playa.
+Si verbo y adverbio,PREP opcional.
+El barco rojo ni rapidamente corrió en el mar ni se rompió facilmente en la playa
+TOmar ni verbo PREP.
+El barco rojo no corrió rapidamente en el mar ni se rompió facilmente en la playa.
+TOmar no como ni
+El barco rojo tampoco corrió rapidamente en el mar ni se rompió facilmente en la playa
+Tomar tampoco como ni.
+
+El barco es azul y negro y rojo y violeta.
+
+
+multiple
+
+El pato chiquito y blanco corrió por el bosque y por la casa.
+
+recursivo
+El pato come en el parque, corre en la plaza roja y blanca, y en la casa, y salta por el patio
+
+
+
+
+INFINITIVO
+Hay que encarar
+Encarar es un paso importante
+Correr es bueno.
+
+
+
+SUJETO
+
+el barco preparó el viaje.  
+S_S orden lógico por izquierda.
+Azul es el barco. verbo copulativo
+El azul es el barco. Prioridad por izquierda
+
+
+
+RELATIVO
+
+
+El libro que juan pinta ,lo escribe Pedro.
+
+
+
+
+
